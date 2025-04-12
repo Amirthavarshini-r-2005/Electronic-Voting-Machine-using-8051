@@ -9,9 +9,9 @@ The EVM allows voters to cast their votes through push buttons, with immediate f
 ⚡ Efficient Assembly Code: Optimized for speed and low memory footprint
 🔄 Reset Capability: Allows quick clearing of votes for the next session
 
-Block diagram:
+## Block diagram:
 ![image](https://github.com/user-attachments/assets/97505359-615a-4066-8a91-80ff9a1bb5e6)
-Algortihm:
+## Algortihm:
 ![image](https://github.com/user-attachments/assets/e313cdfe-b05e-40d4-b0b9-549c4bd246b0)
 
 🔧 Components Used
@@ -23,9 +23,9 @@ Potentiometer:	Adjusts the LCD contrast
 Resistor (1 KΩ):	Controls current flow for protection
 Breadboard & Jumper Wires:	Circuit assembly and connectivity
 
-Proteus Simulation:
+## Proteus Simulation:
 ![image](https://github.com/user-attachments/assets/6d5748e3-0a44-4ed2-84c2-f37231542c6e)
 
-Hardware Setup:
+## Hardware Setup:
 ![image](https://github.com/user-attachments/assets/a21ba154-8b3a-41d1-bfc3-039360b2728f)
 
