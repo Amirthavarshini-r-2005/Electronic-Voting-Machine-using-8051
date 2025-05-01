@@ -1,6 +1,5 @@
 # Electronic-Voting-Machine-Using-8051
-This project presents a secure and efficient Electronic Voting Machine (EVM) built using the 8051 microcontroller. The system is designed to modernize the voting process by ensuring accuracy, security, and real-time result updates.
-The EVM allows voters to cast their votes through push buttons, with immediate feedback displayed on an LCD screen. An initializing switch prevents accidental or multiple votes, ensuring that each vote is counted correctly. The software is developed in 8051 Assembly Language to maximize efficiency and performance, ensuring fast processing and minimal memory usage.
+This project presents a secure and efficient Electronic Voting Machine (EVM) built using the 8051 microcontroller. The system is designed to modernize the voting process by ensuring accuracy, security, and real-time result updates.The EVM allows voters to cast their votes through push buttons, with immediate feedback displayed on an LCD screen. An initializing switch prevents accidental or multiple votes, ensuring that each vote is counted correctly. The software is developed in 8051 Assembly Language to maximize efficiency and performance, ensuring fast processing and minimal memory usage.
 
 ## 🚀 Key Features
 - Secure Voting Process: Prevents multiple votes using an initializing switch
@@ -27,5 +26,5 @@ The EVM allows voters to cast their votes through push buttons, with immediate f
 ![image](https://github.com/user-attachments/assets/6d5748e3-0a44-4ed2-84c2-f37231542c6e)
 
 ## Hardware Setup:
-![image](https://github.com/user-attachments/assets/a21ba154-8b3a-41d1-bfc3-039360b2728f)
+
 
