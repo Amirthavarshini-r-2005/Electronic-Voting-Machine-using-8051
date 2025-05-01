@@ -26,5 +26,5 @@ This project presents a secure and efficient Electronic Voting Machine (EVM) bui
 ![image](https://github.com/user-attachments/assets/6d5748e3-0a44-4ed2-84c2-f37231542c6e)
 
 ## Hardware Setup:
-
+![image](https://github.com/user-attachments/assets/21a8c04c-9229-43ca-8b0f-552b61660b98)
 
